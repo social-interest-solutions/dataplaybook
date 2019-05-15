@@ -102,10 +102,10 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #425563;
+  color: #00C65E;
 }
 .masthead-title a {
-  color: #425563;
+  color: #00C65E;
 }
 .masthead-title small {
   font-size: 75%;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #425563;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -237,7 +237,7 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #00C65E;
+  background-color: #425563;
 }
 
 .sidebar-toggle:active:before,
@@ -537,11 +537,11 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* CHHS Blue */
+/* SIS Slate */
 .theme-base-chhs .sidebar,
 .theme-base-chhs .sidebar-toggle:active,
 .theme-base-chhs #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
-  background-color: #00C65E;
+  background-color: #425563;
 }
 .theme-base-chhs .container a,
 .theme-base-chhs .sidebar-toggle,
