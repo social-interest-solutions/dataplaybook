@@ -2,7 +2,7 @@
 
 ### DATA PLAYBOOK
 
-###### A Department's Toolkit to Utilizing Data
+###### SIS's toolkit for using data for impact across the organization.
 
 ## Contents
 
@@ -32,18 +32,18 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>1.0</td>
-    <td>June 2016</td>
-    <td>Initial release</td>
+    <td>0.1</td>
+    <td>May 2019</td>
+    <td>Initial framework</td>
   </tr>
   <tr>
-    <td>1.1</td>
-    <td>October 2016</td>
-    <td>Added CHHS De-Identification Guidelines</td>
+    <td> </td>
+    <td> </td>
+    <td></td>
   </tr>
   <tr>
-    <td>2.0</td>
-    <td>July 2017</td>
-    <td>Added CHHS sharing materials, other resources</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table> 
