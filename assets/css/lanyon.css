@@ -227,10 +227,10 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #4F6AAF, #4F6AAF 20%, #fff 20%, #fff 40%, #4F6AAF 40%, #4F6AAF 60%, #fff 60%, #fff 80%, #4F6AAF 80%, #4F6AAF 100%);
-  background-image:    -moz-linear-gradient(to bottom, #4F6AAF, #4F6AAF 20%, #fff 20%, #fff 40%, #4F6AAF 40%, #4F6AAF 60%, #fff 60%, #fff 80%, #4F6AAF 80%, #4F6AAF 100%);
-  background-image:     -ms-linear-gradient(to bottom, #4F6AAF, #4F6AAF 20%, #fff 20%, #fff 40%, #4F6AAF 40%, #4F6AAF 60%, #fff 60%, #fff 80%, #4F6AAF 80%, #4F6AAF 100%);
-  background-image:         linear-gradient(to bottom, #4F6AAF, #4F6AAF 20%, #fff 20%, #fff 40%, #4F6AAF 40%, #4F6AAF 60%, #fff 60%, #fff 80%, #4F6AAF 80%, #4F6AAF 100%);
+  background-image: -webkit-linear-gradient(to bottom, #425563, #425563 20%, #fff 20%, #fff 40%, #425563 40%, #425563 60%, #fff 60%, #fff 80%, #425563 80%, #425563 100%);
+  background-image:    -moz-linear-gradient(to bottom, #425563, #425563 20%, #fff 20%, #fff 40%, #425563 40%, #425563 60%, #fff 60%, #fff 80%, #425563 80%, #425563 100%);
+  background-image:     -ms-linear-gradient(to bottom, #425563, #425563 20%, #fff 20%, #fff 40%, #425563 40%, #425563 60%, #fff 60%, #fff 80%, #425563 80%, #425563 100%);
+  background-image:         linear-gradient(to bottom, #425563, #425563 20%, #fff 20%, #fff 40%, #425563 40%, #425563 60%, #fff 60%, #fff 80%, #425563 80%, #425563 100%);
 }
 
 .sidebar-toggle:active,
