@@ -541,7 +541,7 @@ a.pagination-item:hover {
 .theme-base-chhs .sidebar,
 .theme-base-chhs .sidebar-toggle:active,
 .theme-base-chhs #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
-  background-color: #425563;
+  background-color: #00C65E;
 }
 .theme-base-chhs .container a,
 .theme-base-chhs .sidebar-toggle,
