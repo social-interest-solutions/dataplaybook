@@ -1,16 +1,16 @@
 # Setup
 title:            DATA PLAYBOOK
-tagline:          'California Health and Human Services Agency'
-description:      'CHHS Data Playbook'
-url:              'https://chhsdata.github.io/dataplaybook'
-baseurl:          'https://chhsdata.github.io/dataplaybook'
+tagline:          'Social Interest Solutions'
+description:      'SIS Data Playbook'
+url:              'https://social-interest-solutions.github.io/dataplaybook'
+baseurl:          'https://social-interest-solutions.github.io/dataplaybook'
 
 author:
-  name:           'California Health and Human Services Agency'
-  url:            https://twitter.com/chhsagency
+  name:           'Social Interest Solutions'
+  url:            https://twitter.com/SISOrg
 
 # Custom vars
-version:          3.0 | November 2018
+version:          0.1 | May 2019
 
 github:
-  repo:           https://github.com/CHHSData/DataPlaybook
+  repo:           https://github.com/Social-Interest-Solutions/DataPlaybook
